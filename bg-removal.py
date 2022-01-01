@@ -8,7 +8,7 @@ cap.set(3,640) #Width
 cap.set(4,480) #Height
 
 #Background image path
-bg_img_path = r"C:\\Users\\Daly\\Desktop\\Background removal\\source code\\bg-imgs\\1.jpg" 
+bg_img_path = r"C:\\Users\\Daly\\Desktop\\1.jpg" 
 
 img_bg = cv2.imread(bg_img_path)
 
